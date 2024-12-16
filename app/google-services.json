@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "478236561665",
+    "project_id": "mishalsproject",
+    "storage_bucket": "mishalsproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478236561665:android:dfaae94c12623385970b00",
+        "android_client_info": {
+          "package_name": "com.example.firebase_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478236561665-6gp3c0bt56ebb7u7e1eor2bqrqf67gls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlfb6Z1CYtsuLPN0nQshmpQ1eoDGx8hQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478236561665-6gp3c0bt56ebb7u7e1eor2bqrqf67gls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
